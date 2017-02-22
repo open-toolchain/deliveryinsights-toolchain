@@ -1,18 +1,18 @@
 version: 2
 
 template:
-  header: '![](template.png)'
-  icon: icon.svg
-  name: Delivery Insights
-  description: Delivery Insights for UrbanCode provides deployment metrics as well as Insightful dashboarding for your DevOps Transformation
+    header: '![](template.png)'
+    icon: icon.svg
+    name: Delivery Insights
+    description: Delivery Insights for UrbanCode provides deployment metrics as well as Insightful dashboarding for your DevOps Transformation
 
 toolchain:
-  name: Delivery Insights
-  description: Delivery Insights for UrbanCode provides deployment metrics as well as Insightful dashboarding for your DevOps Transformation
+    name: Delivery Insights
+    description: Delivery Insights for UrbanCode provides deployment metrics as well as Insightful dashboarding for your DevOps Transformation
 
 services:
-  dra:
-    service_id: draservicebroker
+    dra:
+      service_id: draservicebroker
 
-  ucd:
-    service_id: urbancodedeploy
+    ucd:
+      service_id: urbancodedeploy
