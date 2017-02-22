@@ -1,18 +1,18 @@
 version: 2
 
 template:
-  header: '![](template.png)'
-  icon: data:image/;base64,PHN2ZyBpZD0iZGVsaXZlcnktaW5zaWdodHMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGRlZnM+PHN0eWxlPi5jbHMtMSwuY2xzLTcsLmNscy04e2ZpbGw6bm9uZTt9LmNscy0ye2NsaXAtcGF0aDp1cmwoI2NsaXAtcGF0aCk7fS5jbHMtM3tmaWxsOiNmM2YzZjM7fS5jbHMtNHtmaWxsOiMwNDdjYzA7fS5jbHMtNXtmaWxsOiMxNzVkOGQ7fS5jbHMtNntmaWxsOiMwMDliZWY7fS5jbHMtN3tzdHJva2U6IzAwOWJlZjt9LmNscy03LC5jbHMtOHtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6M3B4O30uY2xzLTh7c3Ryb2tlOiMxNzVkOGQ7fTwvc3R5bGU+PGNsaXBQYXRoIGlkPSJjbGlwLXBhdGgiPjxjaXJjbGUgY2xhc3M9ImNscy0xIiBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiLz48L2NsaXBQYXRoPjwvZGVmcz48dGl0bGU+ZGVsaXZlcnktaW5zaWdodHMtaWQ8L3RpdGxlPjxnIGNsYXNzPSJjbHMtMiI+PHJlY3QgY2xhc3M9ImNscy0zIiB4PSItMS4wMyIgeT0iLTEuMDMiIHdpZHRoPSI2Ni4wNiIgaGVpZ2h0PSI2Ni4wNiIvPjxyZWN0IGNsYXNzPSJjbHMtNCIgeD0iLTAuNTEiIHk9IjE5Ljk2IiB3aWR0aD0iMzAuOTMiIGhlaWdodD0iNi42MSIvPjxyZWN0IGNsYXNzPSJjbHMtNSIgeD0iLTAuNTEiIHk9IjguOTUiIHdpZHRoPSIzOC4zMSIgaGVpZ2h0PSI2LjYxIi8+PHJlY3QgY2xhc3M9ImNscy02IiB4PSItMC41MSIgeT0iMzAuOTYiIHdpZHRoPSIyMy4xNiIgaGVpZ2h0PSI2LjYxIi8+PHBvbHlsaW5lIGNsYXNzPSJjbHMtNyIgcG9pbnRzPSI4Ljg1IDU1Ljk5IDIxLjUzIDUyLjg4IDI2Ljc0IDQ2LjY0IDM5LjEyIDM5Ljg2IDUxLjUgNDkuOCA2NC43MiAzOC45NyIvPjxwb2x5bGluZSBjbGFzcz0iY2xzLTgiIHBvaW50cz0iOC44NSA2Mi42IDIxLjUzIDU5LjQ5IDI2Ljc0IDU3LjY1IDM5LjEyIDUwLjg3IDUxLjUgMzQuMzggNjQuNzIgMjcuOTUiLz48L2c+PC9zdmc+
-  name: Delivery Insights
-  description: Delivery Insights for UrbanCode provides deployment metrics as well as Insightful dashboarding for your DevOps Transformation
+    header: '![](template.png)'
+    icon: icon.svg
+    name: Delivery Insights
+    description: Delivery Insights for UrbanCode provides deployment metrics as well as Insightful dashboarding for your DevOps Transformation
 
 toolchain:
-  name: Delivery Insights
-  description: Delivery Insights for UrbanCode provides deployment metrics as well as Insightful dashboarding for your DevOps Transformation
+    name: Delivery Insights
+    description: Delivery Insights for UrbanCode provides deployment metrics as well as Insightful dashboarding for your DevOps Transformation
 
 services:
-  dra:
-    service_id: draservicebroker
+    dra:
+      service_id: draservicebroker
 
-  ucd:
-    service_id: urbancodedeploy
+    ucd:
+      service_id: urbancodedeploy
