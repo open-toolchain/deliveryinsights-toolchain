@@ -1,6 +1,5 @@
 version: '2'
 template:
-    header: '![](template.png)'
     icon: icon.png
     name: Delivery Insights with IBM UrbanCode Deploy
     description: |-
