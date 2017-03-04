@@ -2,12 +2,17 @@ version: '2'
 template:
     icon: icon.png
     name: Delivery Insights with IBM UrbanCode Deploy
+    info:
+      git url: >-
+        [https://github.com/open-toolchain/deliveryinsights-toolchain.git](https://github.com/open-toolchain/deliveryinsights-toolchain.git)
+        git branch: >-
+          [master](https://github.com/open-toolchain/deliveryinsights-toolchain/tree/master)
     description: |-
         Use this toolchain to view deployment metrics from IBM UrbanCode Deploy.
 
         Enable this toolchain to communicate with UrbanCode Deploy by downloading and configuring [DevOps Connect](link) from the Settings page in DevOps Insights. Customized instructions explain how to configure DevOps Connect for this toolchain.
 
-        After data is pushed from UrbanCode Deploy to DevOps Insights,  you can launch DevOps Insights and view the reports on the Delivery Insights dashboard.    
+        After data is pushed from UrbanCode Deploy to DevOps Insights,  you can launch DevOps Insights and view the reports on the Delivery Insights dashboard.
 
         To get started, click **Create**.
 toolchain:
@@ -17,7 +22,7 @@ toolchain:
             **Your toolchain is ready!**
 
             **Quick start:** Enable this toolchain to communicate with UrbanCode Deploy by downloading and configuring [DevOps Connect](link) from the Settings page in DevOps Insights.
-            
+
             For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/category/tools) for this toolchain.
 services:
     dra:
