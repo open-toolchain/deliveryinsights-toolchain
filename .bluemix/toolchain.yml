@@ -16,7 +16,7 @@ template:
 
         To get started, click **Create**.
 toolchain:
-    name: Delivery Insights
+    name: 'deliveryinsights-toolchain-{{timestamp}}'
     template:
         getting_started: |-
             **Your toolchain is ready!**
