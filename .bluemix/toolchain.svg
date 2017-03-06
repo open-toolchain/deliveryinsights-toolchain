@@ -5,7 +5,7 @@
 <style type="text/css">
 	.st0{fill:none;}
 	.st1{fill:#975AD1;}
-	.st2{font-family:'Arial-BoldMT';}
+	.st2{font-family:'Arial'; font-weight:bold;}
 	.st3{font-size:11px;}
 	.st4{fill:#FC5255;}
 	.st5{font-size:12px;}
