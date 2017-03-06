@@ -15,6 +15,7 @@ template:
         After data is pushed from UrbanCode Deploy to DevOps Insights,  you can launch DevOps Insights and view the reports on the Delivery Insights dashboard.
 
         To get started, click **Create**.
+    header: '![](toolchain.svg?localize "header image")'
 toolchain:
     name: 'deliveryinsights-toolchain-{{timestamp}}'
     template:
