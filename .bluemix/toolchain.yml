@@ -5,8 +5,8 @@ template:
     info:
       git url: >-
         [https://github.com/open-toolchain/deliveryinsights-toolchain.git](https://github.com/open-toolchain/deliveryinsights-toolchain.git)
-        git branch: >-
-          [master](https://github.com/open-toolchain/deliveryinsights-toolchain/tree/master)
+      git branch: >-
+        [master](https://github.com/open-toolchain/deliveryinsights-toolchain/tree/master)
     description: |-
         Use this toolchain to view deployment metrics from IBM UrbanCode Deploy.
 
