@@ -1,6 +1,6 @@
 version: '2'
 template:
-    icon: icon.png
+    icon: icon.svg
     name: Delivery Insights with IBM UrbanCode Deploy
     info:
       git url: >-
