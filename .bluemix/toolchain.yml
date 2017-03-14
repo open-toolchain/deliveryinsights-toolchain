@@ -23,7 +23,7 @@ toolchain:
             **Your toolchain is ready!**
 
             **Quick start:** Enable this toolchain to communicate with UrbanCode Deploy by downloading and configuring [DevOps Connect](link) from the Settings page in DevOps Insights.
-            For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/category/tools) for this toolchain.
+            For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights) for this toolchain.
 services:
     dra:
       service_id: draservicebroker
