@@ -30,9 +30,9 @@
 <g id="svg_125">
 	<path id="svg_126" class="st0" d="M214.6,372"/>
 </g>
-<text id="deliver" transform="matrix(1 0 0 1 -60.8682 292.2954)" class="st2 st3">DELIVER</text>
+<text id="headerSVG.deliver" transform="matrix(1 0 0 1 -60.8682 292.2954)" class="st2 st3">DELIVER</text>
 <rect id="svg_121_1_" x="82" y="275.5" class="st4" width="140.3" height="4.5"/>
-<text id="learn" transform="matrix(1 0 0 1 81.9 292.95)" class="st2 st5">LEARN</text>
+<text id="headerSVG.learn" transform="matrix(1 0 0 1 81.9 292.95)" class="st2 st5">LEARN</text>
 <circle id="svg_83" class="st6" cx="125.8" cy="380.4" r="35"/>
 <path id="svg_100" class="st7" d="M129.8,394.8l-9,0.7c-0.8,0-1.5-0.5-1.6-1.3l0,0c0-0.8,0.5-1.5,1.3-1.6l9-0.7
 	c0.8,0,1.5,0.5,1.6,1.3l0,0C131.2,394.1,130.6,394.8,129.8,394.8z"/>
@@ -59,11 +59,11 @@
 <circle id="svg_111" class="st1" cx="125.3" cy="371.3" r="8.8"/>
 <path id="svg_112" class="st13" d="M125.3,362.4v17.7c4.9,0,8.8-4,8.8-8.8C134,366.4,130.2,362.4,125.3,362.4z"/>
 <path id="svg_113" class="st14" d="M132,377c1.7-2.1,2.4-4.8,2-7.3l-8.7,1.6l-5.7,6.7C123.3,381.2,128.8,380.7,132,377z"/>
-<text id="devops" transform="matrix(1 0 0 1 101.4 448.4998)" class="st2 st5">DEVOPS</text>
-<text id="insights" transform="matrix(1 0 0 1 98.4 462.4998)" class="st2 st5">INSIGHTS</text>
+<text id="headerSVG.devops" transform="matrix(1 0 0 1 101.4 448.4998)" class="st2 st5">DEVOPS</text>
+<text id="headerSVG.insights" transform="matrix(1 0 0 1 98.4 462.4998)" class="st2 st5">INSIGHTS</text>
 <circle id="svg_83_1_" class="st6" cx="-11.9" cy="380" r="35"/>
-<text id="devops_1_" transform="matrix(1 0 0 1 -36.6 447.4998)" class="st2 st5">URBAN</text>
-<text id="insights_1_" transform="matrix(1 0 0 1 -33.6 461.4998)" class="st2 st5">CODE</text>
+<text id="headerSVG.urban" transform="matrix(1 0 0 1 -36.6 447.4998)" class="st2 st5">URBAN</text>
+<text id="headerSVG.code" transform="matrix(1 0 0 1 -33.6 461.4998)" class="st2 st5">CODE</text>
 <g>
 	<path class="st15" d="M-33.3,381.4c0,0.5,0,1,0,1.4h-0.8l-0.1-0.9h0c-0.3,0.4-0.8,1-1.7,1c-0.8,0-1.8-0.5-1.8-2.3v-3.1h1v2.9
 		c0,1,0.3,1.7,1.2,1.7c0.6,0,1.1-0.4,1.3-0.9c0.1-0.2,0.1-0.3,0.1-0.5v-3.2h1V381.4z"/>
