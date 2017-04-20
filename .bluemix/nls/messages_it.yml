@@ -1,0 +1,10 @@
+---
+template.name: "Delivery Insights con IBM UrbanCode Deploy"
+template.description: "Utilizzare questa toolchain per visualizzare le metriche di distribuzione da IBM UrbanCode Deploy.\n\nAbilitare questa toolchain per comunicare con UrbanCode Deploy scaricando e configurando DevOps Connect dalla pagina Impostazioni in DevOps Insights.Istruzioni personalizzate descrivono in che modo configurare DevOps Connect per questa toolchain.\n\nUna volta che vengono immessi i dati richiesti da UrbanCode Deploy in DevOps Insights,  è possibile avviare DevOps Insights e visualizzare i report sul dashboard Delivery Insights.\n\nPer iniziare, fare clic su **Crea**."
+template.gettingStarted: "**La toolchain è pronta!**\n**Avvio rapido:** Abilitare questa toolchain per comunicare con UrbanCode Deploy scaricando e configurando DevOps Connect dalla pagina Impostazioni in DevOps Insights. Per le istruzioni passo dopo passo, consultare il [supporto didattico](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights) per questa toolchain."
+headerSVG.deliver: "DISTRIBUISCI"
+headerSVG.learn: "IMPARA"
+headerSVG.urban: "URBAN"
+headerSVG.code: "CODICE"
+headerSVG.devops: "DEVOPS"
+headerSVG.insights: "INSIGHTS"
