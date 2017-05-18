@@ -1,0 +1,2 @@
+---
+template.gettingStarted: "**ツールチェーンの準備ができました。**\n**クイック・スタート:** このツールチェーンが UrbanCode Deploy と通信できるようにするには、DevOps Connect をダウンロードして DevOps Insights の「設定」ページで構成します。ステップバイステップの説明については、このツールチェーンの[チュートリアル](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights)を参照してください。"

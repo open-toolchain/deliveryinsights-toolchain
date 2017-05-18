@@ -1,0 +1,2 @@
+---
+template.gettingStarted: "**工具链已就绪！**\n**快速启动：** 启用此工具链可通过从 DevOps Insights 中的“设置”页面下载并配置 DevOps Connect，与 UrbanCode Deploy 进行通信。有关逐步指示信息，请参阅此工具链的[教程](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights)。"
