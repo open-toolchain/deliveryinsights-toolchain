@@ -1,10 +1,10 @@
 ---
 template.name: "Delivery Insights (IBM UrbanCode Deploy)"
 template.description: "このツールチェーンは、IBM UrbanCode Deploy からデプロイメント・メトリックを表示する場合に使用します。\n\nこのツールチェーンが UrbanCode Deploy と通信できるようにするには、DevOps Connect をダウンロードして DevOps Insights の「設定」ページで構成します。このツールチェーン用に DevOps Connect を構成する方法が、カスタマイズされた説明によって示されます。\n\nUrbanCode Deploy から DevOps Insights にデータがプッシュされた後で DevOps Insights を起動して Delivery Insights ダッシュボード上にレポートを表示できます。\n\n開始するには、**「作成」**をクリックします。"
-template.gettingStarted: "**ツールチェーンの準備ができました。**\n**クイック・スタート:** このツールチェーンが UrbanCode Deploy と通信できるようにするには、DevOps Connect をダウンロードして DevOps Insights の「設定」ページで構成します。ステップバイステップの説明については、このツールチェーンの[チュートリアル](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights)を参照してください。"
+template.gettingStarted: "**ツールチェーンの準備ができました。**\n**クイック・スタート:** このツールチェーンが UrbanCode Deploy と通信できるようにするには、DevOps Connect をダウンロードして DevOps Insights の「設定」ページで構成します。ステップバイステップの説明については、このツールチェーンの[チュートリアル](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights?task=2)を参照してください。"
 headerSVG.deliver: "配信"
 headerSVG.learn: "学習"
 headerSVG.urban: "URBAN"
-headerSVG.code: "CODE"
+headerSVG.code: "コード"
 headerSVG.devops: "DEVOPS"
 headerSVG.insights: "INSIGHTS"

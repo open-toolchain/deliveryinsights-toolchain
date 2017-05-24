@@ -1,7 +1,7 @@
 ---
 template.name: "Delivery Insights con IBM UrbanCode Deploy"
 template.description: "Utilice esta cadena de herramientas para visualizar métricas de despliegue de IBM UrbanCode Deploy. \n\nHabilite esta cadena de herramientas para comunicarse con UrbanCode Deploy mediante la descarga y configuración de DevOps Connect desde la página Valores en DevOps Insights. Las instrucciones personalizadas explican cómo configurar DevOps Connect para esta cadena de herramientas. \n\nDespués de que los datos se hayan enviado desde UrbanCode Deploy a DevOps Insights, podrá iniciar DevOps Insights y visualizar los informes en el panel de control de Delivery Insights. \n\nPara comenzar, pulse **Crear**."
-template.gettingStarted: "**¡Su cadena de herramientas está lista!**\n**Inicio rápido:** Habilite esta cadena de herramientas para comunicarse con UrbanCode Deploy mediante la descarga y configuración de DevOps Connect desde la página Valores en DevOps Insights. Para obtener instrucciones detalladas paso a paso, consulte la [guía de aprendizaje](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights) para esta cadena de herramientas. "
+template.gettingStarted: "**¡Su cadena de herramientas está lista!**\n**Inicio rápido:** Habilite esta cadena de herramientas para comunicarse con UrbanCode Deploy mediante la descarga y configuración de DevOps Connect desde la página Valores en DevOps Insights. Para obtener instrucciones detalladas paso a paso, consulte la [guía de aprendizaje](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights?task=2) para esta cadena de herramientas. "
 headerSVG.deliver: "ENTREGAR"
 headerSVG.learn: "APRENDER"
 headerSVG.urban: "URBAN"
