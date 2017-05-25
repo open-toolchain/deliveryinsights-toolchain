@@ -1,7 +1,7 @@
 ---
 template.name: "1:Delivery Insights with IBM UrbanCode Deploy"
 template.description: "2:Use this toolchain to view deployment metrics from IBM UrbanCode Deploy.\n\nEnable this toolchain to communicate with UrbanCode Deploy by downloading and configuring DevOps Connect from the Settings page in DevOps Insights. Customized instructions explain how to configure DevOps Connect for this toolchain.\n\nAfter data is pushed from UrbanCode Deploy to DevOps Insights,  you can launch DevOps Insights and view the reports on the Delivery Insights dashboard.\n\nTo get started, click **Create**."
-template.gettingStarted: "3:**Your toolchain is ready!**\n**Quick start:** Enable this toolchain to communicate with UrbanCode Deploy by downloading and configuring DevOps Connect from the Settings page in DevOps Insights. For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights) for this toolchain."
+template.gettingStarted: "3:**Your toolchain is ready!**\n**Quick start:** Enable this toolchain to communicate with UrbanCode Deploy by downloading and configuring DevOps Connect from the Settings page in DevOps Insights. For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights?task=2) for this toolchain."
 headerSVG.deliver: "4:DELIVER"
 headerSVG.learn: "5:LEARN"
 headerSVG.urban: "6:URBAN"
