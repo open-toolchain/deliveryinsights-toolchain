@@ -1,7 +1,7 @@
 ---
 template.name: "搭配 IBM UrbanCode Deploy 的 Delivery Insights"
 template.description: "使用此工具鏈，可從 IBM UrbanCode Deploy 檢視部署度量值。\n\n啟用此工具鏈與 UrbanCode Deploy 通訊，方法為從 DevOps Insights 中的「設定」頁面下載並配置 DevOps Connect。自訂指示說明如何對此工具鏈配置 DevOps Connect。\n\n將 UrbanCode Deploy 中的資料推送至 DevOps Insights 之後，您可以啟動 DevOps Insights，並在 Delivery Insights 儀表板上檢視報告。\n\n若要開始，請按一下**建立**。"
-template.gettingStarted: "**您的工具鏈已備妥！**\n**快速入門：** 啟用此工具鏈與 UrbanCode Deploy 通訊，方法為從 DevOps Insights 中的「設定」頁面下載並配置 DevOps Connect。如需逐步指示，請參閱此工具鏈的 [指導教學](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights?task=2)。"
+template.gettingStarted: "**您的工具鏈已備妥！**\n**快速入門：** 啟用此工具鏈與 UrbanCode Deploy 通訊，方法為從 DevOps Insights 中的「設定」頁面下載並配置 DevOps Connect。如需逐步指示，請參閱此工具鏈的[指導教學](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights?task=2)。"
 headerSVG.deliver: "交付"
 headerSVG.learn: "學習"
 headerSVG.urban: "URBAN"
