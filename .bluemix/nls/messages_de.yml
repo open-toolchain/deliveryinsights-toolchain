@@ -1,10 +1,10 @@
 ---
 template.name: "Delivery Insights mit IBM UrbanCode Deploy"
-template.description: "Verwenden Sie diese Toolchain, um Messwerte für die Bereitstellung aus IBM UrbanCode Deploy anzuzeigen.\n\nWenn Sie diese Toolchain aktivieren, können Sie mit UrbanCode Deploy kommunizieren, indem Sie DevOps Connect über die Seite 'Delivery Insights' in DevOps Insights herunterladen und konfigurieren. Angepasste Anleitungen erläutern, wie Sie DevOps Connect für diese Toolchain konfigurieren.\n\nNachdem Daten aus UrbanCode Deploy in DevOps Insights übertragen wurden,  können Sie DevOps Insights starten und die Berichte im Delivery Insights-Dashboard anzeigen.\n\nKlicken Sie auf **Erstellen**, um zu beginnen."
+template.description: "Verwenden Sie diese Toolchain, um Messwerte für die Bereitstellung aus IBM UrbanCode Deploy anzuzeigen.\n\nWenn Sie diese Toolchain aktivieren, können Sie mit UrbanCode Deploy kommunizieren, indem Sie DevOps Connect über die Seite 'Delivery Insights' in DevOps Insights herunterladen und konfigurieren. Angepasste Anleitungen erläutern, wie Sie DevOps Connect für diese Toolchain konfigurieren.\n\nNachdem Daten aus UrbanCode Deploy in DevOps Insights übertragen wurden, können Sie DevOps Insights starten und die Berichte im Delivery Insights-Dashboard anzeigen.\n\nDiese Toolchain verwendet Tools, die Teil des Continuous Delivery-Service sind. Wenn sich noch keine Instanz dieses Service in Ihrer Organisation befindet, wird sie automatisch hinzugefügt, wenn Sie auf **Erstellen** klicken. Dabei ist der kostenlose Plan [Lite](/catalog/services/continuous-delivery/) ausgewählt.\n\nKlicken Sie auf **Erstellen**, um zu beginnen."
 template.gettingStarted: "**Ihre Toolchain steht bereit!**\n**Schnelleinstieg:** Aktivieren Sie diese Toolchain, um mit UrbanCode Deploy zu kommunizieren, indem Sie DevOps Connect über die Seite 'Delivery Insights' in DevOps Insights herunterladen und konfigurieren. Schrittweise Anleitungen bietet das [Lernprogramm](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_delivery_insights?task=2) für diese Toolchain."
 headerSVG.deliver: "BEREITSTELLEN"
 headerSVG.learn: "LERNEN"
 headerSVG.urban: "URBAN"
-headerSVG.code: "CODE"
+headerSVG.code: "CODIEREN"
 headerSVG.devops: "DEVOPS"
 headerSVG.insights: "INSIGHTS"
